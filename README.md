@@ -1,8 +1,8 @@
 # Simple-Calculator-Application (Android Studio Projects)
-<img src="/app/image1.png" alt="Enter 2 digits">   
- <img src="/app/image2.png" alt="Click on Divide Button">
-  <img src="/app/image3.png" alt="Click on Sum Button">
 
+ <img src="app/image 2.png" width="200" height="400"> <img src="app/image 1.png" width="200" height="400"> <img src="app/image 3.png" width="200" height="400">
+
+  
  
 <h4>Main Activtity Java Code:</h4>
 
